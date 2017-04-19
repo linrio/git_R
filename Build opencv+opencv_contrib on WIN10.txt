@@ -1,0 +1,9 @@
+############################################################
+#
+#Build the opencv and opencv_contrib model on Win10
+#
+############################################################
+
+See some blogs:
+1. http://www.cnblogs.com/omarj/p/opencv_.html
+2. http://blog.csdn.net/lulu198709/article/details/51014091
